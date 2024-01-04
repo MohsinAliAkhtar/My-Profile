@@ -1,2 +1,2 @@
 # Profile
-This is my profile Repository.
+This is My Profile Repository.
